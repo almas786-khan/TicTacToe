@@ -1,0 +1,27 @@
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.exe.config
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.exe
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.Properties.Resources.resources
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.csproj.GenerateResource.Cache
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.exe
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\3rd semester\gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.AKhanAssignment2.resources
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.exe.config
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.exe
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.pdb
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.AKhanAssignment2.resources
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.Properties.Resources.resources
+C:\Users\Almas Khan\Desktop\3rd semester\Object Oriented Gaming\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.csproj.GenerateResource.Cache
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.exe.config
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.exe
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\bin\Debug\AKhanAssignment2.pdb
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.AKhanAssignment2.resources
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.Properties.Resources.resources
+C:\Users\Almas Khan\Desktop\AKhanAssignment2\AKhanAssignment2\AKhanAssignment2\obj\Debug\AKhanAssignment2.csproj.GenerateResource.Cache
