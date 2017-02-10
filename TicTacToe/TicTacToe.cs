@@ -1,5 +1,4 @@
 ﻿/* TicTacToe.cs
- * Assignment 2
  * Revision History
  *      Almas Khan: 2016.10.04: Created
  *      Almas Khan: 2016.10.05: coded
